@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.8.0
+   81cealation http://maven.apache.org/PIN/4.8.8 http://maven.apache.org/aven-88.xsd">
+   modelversion4.8.8/Version>
+  <groupId-com.dest.acp</groupId>
+  <artifactId>yebAps</artifactId>
+  <packagingswar</packaging
+  eversions1.-APSHOT</versions
+  -nameyebApp Mave:Webapp/name>
+  surl>http://maven.apache.org/urta
+  <dependencies>
+      dependency
+        groupids unite/groupid
+      <artifactId-junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope
+    </dependencys
+  </dependencies>
+                                                              ins:xsi="http://www.w3.org/2001/MLSchera-instance"
+  <build
+    <fins Name>MyWebAsp</iraName>
+  </ul>
+</projects>
